@@ -14,7 +14,7 @@
   <a href="https://youtu.be/3tU_RlkhMjo">Hellhills</a>　
   <a href="https://youtu.be/96RI91HiEc0">Kin Beneath Chorus</a>　
   <a href="https://youtu.be/_szodkoPLwY">Kiraw</a>　
-  <a href="https://youtu.be/YtCrgi47dTM">Notions</a>　
+  <a href="https://youtu.be/F8tWb4o_F08">Notions</a>　
   <a href="https://youtu.be/nMTdIROW2Rk">Rogue Half</a>　
   <a href="https://youtu.be/ZuuVTL2mxWE">SICKRET</a>　
 </p>
