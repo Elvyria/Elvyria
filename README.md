@@ -15,6 +15,8 @@
   <a href="https://youtu.be/96RI91HiEc0">Kin Beneath Chorus</a>　
   <a href="https://youtu.be/_szodkoPLwY">Kiraw</a>　
   <a href="https://youtu.be/F8tWb4o_F08">Notions</a>　
+  <a href="https://youtu.be/cP_ptkUwM3w">Prison</a>　
   <a href="https://youtu.be/nMTdIROW2Rk">Rogue Half</a>　
   <a href="https://youtu.be/ZuuVTL2mxWE">SICKRET</a>　
+  <a href="https://youtu.be/e336xsKgd54">SOUL JAPAN</a>　
 </p>
