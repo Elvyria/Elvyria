@@ -6,6 +6,7 @@
   <a href="https://youtu.be/VTz4ox9UB3g">生 Conform 死</a>　
   <a href="https://youtu.be/sO-ZF__7f9k">Darke Complex</a>　
   <a href="https://youtu.be/0uJjVbWZ8Cg">DARKNET</a>　
+  <a href="https://youtu.be/VHAeHQhbs6g">Dealer</a>　
   <a href="https://youtu.be/uUJvP2zHwOo">do not resurrect</a>　
   <a href="https://youtu.be/LTTeDrIJELY">Dropout Kings</a>　
   <a href="https://youtu.be/zQnsbPaiWSo">Foreground Eclipse</a>　
