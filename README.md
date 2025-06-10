@@ -22,4 +22,8 @@
   <a href="https://youtu.be/e336xsKgd54">SOUL JAPAN</a>　
 </p>
 <br/>
-<a href='https://ko-fi.com/W7W0H34GL' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p align="center">
+  <h5 align="center">Give Support</h5>
+  <h5 align="center"><a align="center" href='https://ko-fi.com/W7W0H34GL'>Ko-Fi</h5>
+</p>
+<br/>
